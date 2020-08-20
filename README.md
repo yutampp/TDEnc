@@ -51,3 +51,12 @@ set DEFAULT_HEIGHT_NEW_L=360
 set DEFAULT_HEIGHT_TWITTER=360
 ```
 
+## ５．確認無しでエンコード開始
+
+```
+rem 最後の確認画面（ニコニコ、YouTube）
+rem スキップしたい場合は「set SKIP_MODE=true」にする
+set SKIP_MODE=true
+```
+
+
